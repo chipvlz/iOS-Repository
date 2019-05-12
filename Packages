@@ -1,0 +1,116 @@
+Package: com.sukarodo.122animojis
+Version: 1.0-30
+Architecture: iphoneos-arm
+Maintainer: Sukarodo <sukarodo@protonmail.com>
+Filename: ./debians/com.sukarodo.122animojis_1.0-30_iphoneos-arm.deb
+Size: 3076430
+MD5sum: f783743711b6627e8709bd1ed34568f2
+SHA1: c00c500cfefce6ee79145c223fb2f1b0ce73f9a5
+SHA256: 7be71accc5cc3f06797c05584b6d95ff77dd80971b2458f79d5d2f8b27967e23
+Section: Addons
+Description: Put iOS 12.2 animojis on 12.0~12.1.2
+Author: Sukarodo <sukarodo@protonmail.com>
+Installed-Size: 56292
+Name: 12.2 Animojis
+Sileodepiction: http://repo.sukarodo.me/depictions/com.sukarodo.122animojis/122animojis.json
+
+Package: com.sukarodo.isupervisor
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sukarodo
+Filename: ./debians/com.sukarodo.isupervisor_1.0_iphoneos-arm.deb
+Size: 1140
+MD5sum: 035851e439a446b9fb2da86a5018d973
+SHA1: eef657a17a3030ea910d540bebe875e0453b277c
+SHA256: 1069af9f66917158184ff31eda9c5924805c5fbfd1fdb459d38134068a26c9f1
+Section: Tweaks
+Description: Supervises your iOS Device
+Installed-Size: 64
+Name: iSupervisor (Supervision)
+Priority: standard
+Sileodepiction: http://repo.sukarodo.me/depictions/com.sukarodo.isupervisor/isupervisor.json
+
+Package: com.sukarodo.notavoke
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Sukarodo <Sukarodo@protonmail.com>
+Depends: com.ps.letmeblock
+Conflicts: com.pwn20wnd.noplsocsp
+Filename: ./debians/com.sukarodo.notavoke_0.3-iphoneos-arm.deb
+Size: 1380
+MD5sum: 4475e02e37fa50f09b695748e985eba6
+SHA1: 007fd0143cd60b414732e9632130123d0749ea2b
+SHA256: e01bf4c159419579ad89fae33d4f433f27a056200cd39d361772a15de1041e73
+Section: System
+Description: This uses the same concept as Diatrus to install. You must have LetMeBlock Installed. Run "removenotavoke" to remove. Note: Any modifications done to your current hosts file after installing will not show up after running "removenotavoke"
+Author: Sukarodo <Sukarodo@protonmail.com>
+Depiction: http://repo.sukarodo.me/depictions/com.sukarodo.notavoke/index.html
+Name: notavoke
+SileoDepiction: http://repo.sukarodo.me/depictions/com.sukarodo.notavoke/notavoke.json
+
+Package: com.sukarodo.redeb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sukarodo <sukarodo@protonmail.com>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
+Filename: ./debians/com.sukarodo.redeb_1.0_iphoneos-arm.deb
+Size: 3540
+MD5sum: fc1b088b0ca176fab877eaf82220ad28
+SHA1: 0e78692d43fd693d3f4556f566c6171697f94701
+SHA256: 380e06661caa96b54f1dac89d62074e12e0303e3457527163c8ec9746265b7e1
+Section: Utilities
+Description: Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super useful when there is an update of your now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Well, not anymore :)
+Author: Sukarodo <sukarodo@protonmail.com>
+Name: ReDeb
+Priority: extra
+
+Package: com.sukarodo.setres
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sukarodo <sukarodo@protonmail.com>
+Filename: ./debians/com.sukarodo.setres_1.0_iphoneos-arm.deb
+Size: 1552
+MD5sum: eaa44508574c04c51adfc68a96b509f2
+SHA1: 08e54527be3f122259ae3a7c117d334d4f689379
+SHA256: 1bb7a1cacaaf869856228e93c5dd1fae71e94190f413249d42638dd19027cd10
+Section: Tweaks
+Description: SetRes By /u/mahmoudnashat, now in Tweak Form. This automatically installs with package. Please read the Terminal. Uninstall By: "uninstallsetres"
+Installed-Size: 64
+Name: SetRes
+Priority: standard
+Sileodepiction: http://repo.sukarodo.me/depictions/com.sukarodo.setres/setres.json
+
+Package: dpkg-perl
+Version: 1.18.25-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Depends: dpkg, perl
+Filename: ./debians/dpkg-perl_1.18.25-2_iphoneos-arm.deb
+Size: 148844
+MD5sum: bc01757416a0a507dd32cf613381f670
+SHA1: e5d0e17821857525b26d934df2010ffcc5b0789d
+SHA256: 554202cb6245e87b0685b16d7e3980599ca29c8089fe844d8e10990a84f025b1
+Section: Packaging
+Description: perl-based package maintainance tools from Debian
+Homepage: http://wiki.debian.org/Teams/Dpkg
+Installed-Size: 1848
+Name: Debian Packager (Perl)
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
+
+Package: perl
+Version: 5.28.0-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Filename: ./debians/perl_5.28.0-1_iphoneos-arm.deb
+Size: 7888760
+MD5sum: a77339e29459b93f805bd4b34eb55bb3
+SHA1: c49b0fc8adda6d0a47bf1071b56c1d707e7a46cf
+SHA256: 5add5d4ce7a18047c1421026aadfa001de347f4fb106683836947b5f51bc0c3d
+Section: Scripting
+Description: awesome combination of sed and awk
+Installed-Size: 107352
+Name: Perl
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: optional
+

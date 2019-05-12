@@ -1,0 +1,13 @@
+{
+   "class":"FeaturedBannersView",
+   "itemSize":"{296, 148}",
+   "itemCornerRadius":10,
+   "banners":[
+      {
+         "url":"https://raw.githubusercontent.com/sukarodo/iOS-Repository/master/assets/repo/Banners/notavokebanner.png",
+         "title":"notavoke",
+         "package":"com.sukarodo.notavoke",
+         "hideShadow":false
+      }
+   ]
+}

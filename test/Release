@@ -1,0 +1,8 @@
+Origin: Test Repository (Sukarodo)
+Label: Test Repository (Sukarodo)
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Sukarodo's Test Repo: Where I test all my stuff
