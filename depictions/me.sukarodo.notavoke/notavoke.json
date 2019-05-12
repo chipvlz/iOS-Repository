@@ -1,6 +1,8 @@
 {
    "class":"DepictionTabView",
    "minVersion":"0.7",
+   "tintColor":"#000000",
+   "headerImage":"https://repo.sukarodo.me/assets/repo/Banners/notavokebanner.png",
    "tabs":[
       {
          "class":"DepictionStackView",
@@ -52,7 +54,7 @@
                         },
                         {
                            "class":"DepictionLabelView",
-                           "text":"0.3",
+                           "text":"0.4",
                            "fontWeight":"semibold",
                            "fontSize":17,
                            "usePadding":false
@@ -83,7 +85,7 @@
                         },
                         {
                            "class":"DepictionLabelView",
-                           "text":"May 10, 2019",
+                           "text":"May 12, 2019",
                            "fontWeight":"semibold",
                            "fontSize":17,
                            "usePadding":false
@@ -129,7 +131,7 @@
                      "views":[
                         {
                            "class":"DepictionLabelView",
-                           "text":"0.3",
+                           "text":"0.4",
                            "fontWeight":"semibold",
                            "fontSize":19,
                            "usePadding":true,
@@ -138,7 +140,7 @@
                         },
                         {
                            "class":"DepictionLabelView",
-                           "text":"May 10, 2019",
+                           "text":"May 12, 2019",
                            "fontSize":14,
                            "useSpacing":false,
                            "usePadding":true,
@@ -152,7 +154,7 @@
                   {
                      "class":"DepictionMarkdownView",
                      "useSpacing":false,
-                     "markdown":"- Initial Release"
+                     "markdown":"- Initial Release (Not Really)"
                   },
                   {
                      "class":"DepictionLabelView",
