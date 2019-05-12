@@ -1,6 +1,8 @@
 {
    "class":"DepictionTabView",
    "minVersion":"0.7",
+   "tintColor":"#000000",
+   "headerImage":"https://repo.sukarodo.me/assets/repo/Banners/notavokebanner.png",
    "tabs":[
       {
          "class":"DepictionStackView",
