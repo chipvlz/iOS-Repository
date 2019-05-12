@@ -31,22 +31,20 @@ Priority: standard
 Sileodepiction: http://repo.sukarodo.me/depictions/com.sukarodo.isupervisor/isupervisor.json
 
 Package: com.sukarodo.notavoke
-Version: 0.3
+Version: 0.4
 Architecture: iphoneos-arm
 Maintainer: Sukarodo <Sukarodo@protonmail.com>
 Depends: com.ps.letmeblock
 Conflicts: com.pwn20wnd.noplsocsp
-Filename: ./debians/com.sukarodo.notavoke_0.3-iphoneos-arm.deb
-Size: 1380
-MD5sum: 4475e02e37fa50f09b695748e985eba6
-SHA1: 007fd0143cd60b414732e9632130123d0749ea2b
-SHA256: e01bf4c159419579ad89fae33d4f433f27a056200cd39d361772a15de1041e73
+Filename: ./debians/me.sukarodo.notavoke_0.4_iphoneos-arm.deb
+SHA1: 16bb8add8f8c8f469fb2dacc2307e2aecdbaade6
+SHA256: c822a3bb237c16d1520f79d037fc5055c9786fea0ca666e924ad80206c26f23e
 Section: System
 Description: This uses the same concept as Diatrus to install. You must have LetMeBlock Installed. Run "removenotavoke" to remove. Note: Any modifications done to your current hosts file after installing will not show up after running "removenotavoke"
 Author: Sukarodo <Sukarodo@protonmail.com>
-Depiction: http://repo.sukarodo.me/depictions/com.sukarodo.notavoke/index.html
+Depiction: http://repo.sukarodo.me/depictions/me.sukarodo.notavoke/index.html
 Name: notavoke
-SileoDepiction: http://repo.sukarodo.me/depictions/com.sukarodo.notavoke/notavoke.json
+SileoDepiction: http://repo.sukarodo.me/depictions/me.sukarodo.notavoke/notavoke.json
 
 Package: com.sukarodo.redeb
 Version: 1.0
