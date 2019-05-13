@@ -8,6 +8,12 @@
          "title":"notavoke",
          "package":"com.sukarodo.notavoke",
          "hideShadow":false
+      },
+      {
+         "url":"https://sukarodo.github.io/assets/Insidious/repository/Banners/RepoHeader.png",
+         "title":"Debian Packager (Perl)",
+         "package":"dpkg-perl",
+         "hideShadow":false
       }
    ]
 }
