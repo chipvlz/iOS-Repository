@@ -1,8 +1,8 @@
-Origin: Sukarodo
-Label: Sukarodo
+Origin: Sukarodo (Cydia)
+Label: Sukarodo (Sileo)
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: XAS
 Architectures: iphoneos-arm
 Components: main
 Description: Sukarodo's Repo: A Modern Sileo / Cydia APT Repository
